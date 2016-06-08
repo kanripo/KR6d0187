@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:33.592268
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:50
 #+TITLE: 天台傳佛心印記
 #+PROPERTY: CBETA_ID T46n1938
 #+PROPERTY: ID KR6d0187
